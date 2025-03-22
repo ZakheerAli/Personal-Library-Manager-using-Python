@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Logic builder",
+        "author": "ali",
+        "year": "2025",
+        "genre": "Story",
+        "read": false
+    },
+    {
+        "title": "Elite class",
+        "author": "Zain",
+        "year": "2024",
+        "genre": "story",
+        "read": true
+    }
+]
